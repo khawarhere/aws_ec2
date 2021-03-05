@@ -1,6 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
-
+*.yml
+kube_config_cluster.yml
 # .tfstate files
 *.tfstate
 *.tfstate.*
